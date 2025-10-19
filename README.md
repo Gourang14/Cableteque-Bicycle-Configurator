@@ -1,4 +1,4 @@
-# **[Cableteque_BicyclePermutations](https://cabletequebicycle.streamlit.app/)**
+# **[Cableteque Bicycle Configurator](https://cabletequebicycle.streamlit.app/)**
 
 A small toolkit + Streamlit (https://cabletequebicycle.streamlit.app/) app that reads a compact Excel specification of bicycle modifications (an `ID` sheet plus `GENERAL` and designator sheets), generates every possible bicycle permutation, and exports the result as JSON (and CSV). This repository contains:
 
