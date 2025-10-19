@@ -103,9 +103,9 @@ I am eager to work with Cableteque, learn from the team’s wealth of experience
 
 Cableteque champions deep domain knowledge, practical innovation, and building tools that genuinely help engineers and manufacturing teams work better. I strongly identify with these priorities, and my personal values and working style map closely to Cableteque’s PIA framework and broader mission:
 
-* **Insightful (I)** - I am committed to continuous learning. I actively seek new perspectives, study domain-specific practices (such as product configuration and inventory workflows), and apply lessons learned to improve both technical solutions and user experiences.
-
 * **Pioneering (P)** - I embrace innovation and forward-thinking approaches. I enjoy exploring new ideas, automating repetitive tasks, and pushing boundaries to make workflows simpler and more powerful.
+
+* **Insightful (I)** - I am committed to continuous learning. I actively seek new perspectives, study domain-specific practices (such as product configuration and inventory workflows), and apply lessons learned to improve both technical solutions and user experiences.
 
 * **Agile (A)** - I work iteratively and adapt to change. I favor practical, incremental improvements, rapid prototyping, and close feedback loops so that solutions remain simple, useful, and easy to adopt.
 
