@@ -5,7 +5,7 @@ A small toolkit + Streamlit (https://cabletequebicycle.streamlit.app/) app that 
 * `BicycleConfigurator.py` - core Python module (function `generate_bicycles_from_sheets(xlsx_path) -> str`). Streamlit app for uploading .xlsx, previewing, filtering and downloading results.
 * `requirements.txt` - environment d ependencies.
 * Example Excel template: `Bicycle_example.xlsx` (downloadable from the app sidebar).
-## A brief video tutorial showcasing the application's features and usage is available here: **Watch the Tutorial(https://drive.google.com/file/d/1_Z6KOhkGKJjfnBUtLVUcGi14ZWTx_ep3/view?usp=sharing)**
+## A brief video tutorial showcasing the application's features and usage is available here: **[Watch the Tutorial](https://drive.google.com/file/d/1_Z6KOhkGKJjfnBUtLVUcGi14ZWTx_ep3/view?usp=sharing)**
 
 ## Key features
 
