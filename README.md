@@ -70,7 +70,7 @@ A small toolkit + Streamlit (https://cabletequebicycle.streamlit.app/) app that 
 If you only want the core generator (no UI), use `bicycle_generator.py` functions from your own script or run the included self-test by executing:
 
 ```bash
-python bicycle_generator.py
+python BicycleConfigurator.py
 ```
 
 Or call the core function from another Python program:
@@ -131,4 +131,4 @@ My mindset is centered on practical innovation, continuous learning, and collabo
 
 ## Contact
 
-* LinkedIn: **[Ashutosh Shukla](https://www.linkedin.com/in/gourang4/)**
+* LinkedIn: **[Gourang Agarwal](https://www.linkedin.com/in/gourang4/)**
