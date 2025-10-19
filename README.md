@@ -10,28 +10,28 @@ A small toolkit + Streamlit (https://cabletequebicycle.streamlit.app/) app that 
 
 ## Key features
 
-* Reads an Excel workbook with the following structure:
-
+* Reads an Excel workbook with a multi-sheet structure:
+  
   * `ID` sheet - each column is a *designator*; rows are possible values. All combinations are created by taking one value from each column.
   * `GENERAL` sheet - common fields applied to every bike.
-  * Other sheets - each sheet maps a designator value (first column) to field values (other columns).
-* Generates the Cartesian product of all designator values and merges per-designator fields into each bike object.
-* Produces a pretty JSON string (list of objects), and also offers a downloadable CSV.
-* Streamlit UI:
+  * Component Sheets: All other sheets map a specific designator value (first column) to its detailed attributes (subsequent columns).
+* Generates the Cartesian product of all designator values and merges component-specific fields into each final bicycle object.
+* Produces clean, ready-to-use data exports, including a well-structured JSON string (list of objects) and a universally compatible CSV file.
+* Interactive Streamlit UI:
 
-  * Upload `.xlsx` and run generation in the browser.
-  * ID separator option (e.g. `-`) to make IDs readable.
-  * Conflict resolution option (designator order vs sheet priority).
-  * Accessible theme presets + advanced color pickers with contrast warnings.
-  * Quick-find filters and per-ID inspection.
+  * Upload your .xlsx file and generate thousands of permutations directly in the browser.
+  * Set a custom ID separator (e.g., -, _, or blank) to format the output IDs.
+  * Choose a conflict resolution strategy to manage how data from different sheets is prioritized.
+  * Filter and explore the generated data with dynamic, searchable dropdowns for any attribute.
+  * Inspect the complete data for any single bicycle by selecting its ID.
 
 ---
 
-## Why this is useful
+## Business Value & Use Cases
 
-* Warehouse / inventory managers can describe many product permutations compactly in Excel and generate a complete, machine-readable catalog.
-* Engineers and front-end teams can use the generated JSON/CSV for search, filters, product pages or backend import.
-* The Streamlit app enables non-technical users to upload and generate outputs without touching code.
+*For Product & Inventory Teams: Drastically reduce manual data entry by defining thousands of product variations in a single, intuitive Excel file, instantly generating a complete and error-free digital catalog.
+* For Development & Engineering: Utilize the clean JSON or CSV output as a single source of truth to power front-end product pages, populate search databases, or integrate directly with backend ERP and inventory systems.
+* For Business Stakeholders: Empower non-technical users to self-serve. The interactive Streamlit application allows anyone to upload a file and generate the data they need without writing a single line of code.
 
 ---
 
