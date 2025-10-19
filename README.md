@@ -2,8 +2,7 @@
 
 A small toolkit + Streamlit (https://cabletequebicycle.streamlit.app/) app that reads a compact Excel specification of bicycle modifications (an `ID` sheet plus `GENERAL` and designator sheets), generates every possible bicycle permutation, and exports the result as JSON (and CSV). This repository contains:
 
-* `bicycle_generator.py` - core Python module (function `generate_bicycles_from_excel(xlsx_path) -> str`).
-* `streamlit_bicycle_generator.py` - Streamlit app for uploading `.xlsx`, previewing, filtering and downloading results.
+* `BicycleConfigurator.py` - core Python module (function `generate_bicycles_from_sheets(xlsx_path) -> str`). Streamlit app for uploading .xlsx, previewing, filtering and downloading results.
 * `requirements.txt` - environment d ependencies.
 * Example Excel template: `Bicycle_example.xlsx` (downloadable from the app sidebar).
 ## **[Tutorial Video](https://drive.google.com/file/d/1SjSIk8ec_WKvUuggQ60oak9ITbCtlasC/view?usp=sharing)**
