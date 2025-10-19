@@ -56,7 +56,7 @@ A small toolkit + Streamlit (https://cabletequebicycle.streamlit.app/) app that 
 3. Run the Streamlit app:
 
    ```bash
-   streamlit run streamlit_bicycle_generator.py
+   streamlit run BicycleConfigurator.py
    ```
 
    Visit `http://localhost:8501` in your browser.
@@ -82,13 +82,13 @@ print(json_str)
 ```
 
 ---
-## 🙏 Acknowledgements
+## Acknowledgements
 
 I would like to extend my heartfelt gratitude to the entire team at Cableteque for this wonderful opportunity.
 
-Your trust and encouragement have been truly motivating, and working on this project has been both an inspiring and enriching experience.
+Your trust and encouragement have been truly motivating and working on this project has been both an inspiring and enriching experience.
 
-This project allowed me to sharpen my technical expertise while also reflecting on how I can personally grow in alignment with your values of innovation, collaboration, and positive impact.
+This project allowed me to sharpen my technical expertise while also reflecting on how I can personally grow in alignment with your values of innovation, collaboration and positive impact.
 
 I am eager to work with Cableteque, learn from the team’s wealth of experience, and contribute meaningfully towards your mission of building a more sustainable and innovative future.
 ## Design & implementation notes
