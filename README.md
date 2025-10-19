@@ -29,9 +29,9 @@ A small toolkit + Streamlit (https://cabletequebicycle.streamlit.app/) app that 
 
 ## Business Value & Use Cases
 
-*For Product & Inventory Teams: Drastically reduce manual data entry by defining thousands of product variations in a single, intuitive Excel file, instantly generating a complete and error-free digital catalog.
-* For Development & Engineering: Utilize the clean JSON or CSV output as a single source of truth to power front-end product pages, populate search databases, or integrate directly with backend ERP and inventory systems.
-* For Business Stakeholders: Empower non-technical users to self-serve. The interactive Streamlit application allows anyone to upload a file and generate the data they need without writing a single line of code.
+* 'For Product & Inventory Teams': Drastically reduce manual data entry by defining thousands of product variations in a single, intuitive Excel file, instantly generating a complete and error-free digital catalog.
+* 'For Development & Engineering': Utilize the clean JSON or CSV output as a single source of truth to power front-end product pages, populate search databases, or integrate directly with backend ERP and inventory systems.
+* 'For Business Stakeholders': Empower non-technical users to self-serve. The interactive Streamlit application allows anyone to upload a file and generate the data they need without writing a single line of code.
 
 ---
 
